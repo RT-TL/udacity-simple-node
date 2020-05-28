@@ -11,3 +11,5 @@ async function main() {
 }
 
 main();
+
+console.log('test', process.env.test);
